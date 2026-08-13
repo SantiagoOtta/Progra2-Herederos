@@ -35,15 +35,43 @@ Soy estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Arg
   
 ---
 
-### [nombre]
+### Lautaro Nicolas Lugaro
 
 **Sobre mi**
+Soy estudiante de Ingeniería Informática en la Universidad Argentina de la Empresa (UADE). Anteriormente estudié un año en la UTN y actualmente continúo mi formación enfocándome en el desarrollo de software y las tecnologías informáticas.
+
+Además, estoy realizando un curso de Full Stack en Digital House, donde sigo ampliando mis conocimientos en programación y desarrollo web. Me considero una persona responsable, con ganas de aprender y de adquirir mi primera experiencia laboral en el área IT.
 
 **🎯 Objetivos**
+- Mi principal objetivo es seguir creciendo dentro del área de tecnología y conseguir una oportunidad que me permita aplicar lo aprendido, adquirir experiencia real y seguir desarrollándome como profesional IT.
+- Finalizar mi carrera de Ingeniería Informática.
+- Comenzar a formarme en ciberseguridad y, a futuro, especializarme en esta área.
+- Profundizar mis conocimientos en programación, desarrollo web y bases de datos.
+- Desarrollar tanto mis capacidades técnicas como mi comunicación y trabajo en equipo.
 
 **🏆 Logros**
+- Ingresé a la carrera de Ingeniería Informática en UADE y continúo avanzando en mi formación.
+- Completé un año de estudios universitarios en la UTN antes de continuar mi carrera en UADE.
+- Realicé el curso de programación Aprende Programando.
+- Actualmente continúo capacitándome mediante el curso Full Stack de Digital House.
+- Logré mantener mi formación académica mientras continúo desarrollando mis conocimientos de manera independiente.
 
 **❤️ Gustos**
+💻 Programación y tecnología
+🌐 Desarrollo web
+🏐 Handball
+🎮 Videojuegos
+🖥️ Computación y hardware
+📚 Aprender nuevas tecnologías
+🤝 Trabajo en equipo
+
+**💻 Conocimientos**
+- Lenguajes: JavaScript, HTML5, CSS3 y conocimientos de programación adquiridos durante mi formación.
+- Desarrollo Web: HTML5, CSS3 y JavaScript.
+- Bases de Datos: conocimientos de SQL y bases de datos relacionales.
+- Herramientas: Git, GitHub y terminal de Linux.
+- Otros: fundamentos de sistemas operativos, redes, telecomunicaciones y arquitectura de computadoras.
+- Idiomas: Español (Nativo), Inglés (Básico).
 
 
 ---**💻 Conocimientos**
