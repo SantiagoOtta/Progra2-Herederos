@@ -96,16 +96,16 @@ Parking Control — Sistema de gestión de estacionamientos desarrollado en Pyth
 En mi tiempo libre disfruto desarrollar aplicaciones propias orientadas a resolver problemas cotidianos y aprender constantemente sobre programación y nuevas tecnologías.
 
 **💻 Conocimientos**
-Python
-Programación estructurada
-Programación orientada a objetos
-Estructuras de datos y algoritmos
-Git y GitHub
-Linux
-Fundamentos de sistemas operativos
-Modelado de sistemas / UML
-Análisis de requerimientos
-Testing y pruebas unitarias
+- Python
+- Programación estructurada
+- Programación orientada a objetos
+- Estructuras de datos y algoritmos
+- Git y GitHub
+- Linux
+- Fundamentos de sistemas operativos
+- Modelado de sistemas / UML
+- Análisis de requerimientos
+- Testing y pruebas unitarias
 
 ### [nombre]
 
