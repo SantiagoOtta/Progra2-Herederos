@@ -160,5 +160,28 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 
 --- 
 
+Ezequiel Santiago Leguiza
+
+Sobre mi
+Soy estudiante de segundo año de Ingeniería en Informática en la Universidad Argentina De La Empresa (UADE), interesado en el mundo del hardware y desarrollo de software.
+
+🎯 Objetivos
+Recibirme de Ingeniero Informático
+Mejorar mis habilidades de comunicación
+🏆 Logros
+Desarrollo de un sistema de gestión de información/contactos en Python que permite agregar y eliminar contactos, modificar la información de cada uno y realizar una búsqueda mediante clave o información del contacto. También almacena los datos en un archivo .txt usando JSON y permite cargar copias de seguridad de los archivos
+Desarrollo de un sistema de gestión de funciones de cine en Java utilizando distintos TDA que permite agregar y eliminar peliculas, funciones, reservas y gestionar cada una, además de manejar una cola de espera cuando una función esta llena. Utiliza estructuras como conjuntos, colas, diccionarios, y arrays.
+❤️ Gustos
+Optimizar procesos
+Fútbol 
+Hardware
+Gaming
+💻 Conocimientos
+Lenguajes: Python (intermedio), Java (básico)
+Herramientas: GitHub, terminal de Linux
+Idiomas: Español (nativo), Ingles (B2)
+
+---
+
 ## Bitácora
 
