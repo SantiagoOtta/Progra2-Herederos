@@ -168,10 +168,12 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
   **🎯 Objetivos**
 - Recibirme de Ingeniero Informático
 - Mejorar mis habilidades de comunicación
-  ** 🏆 Logros**
+- 
+**🏆 Logros**
 - Desarrollo de un sistema de gestión de información/contactos en Python que permite agregar y eliminar contactos, modificar la información de cada uno y realizar una búsqueda mediante clave o información del - - -contacto. También almacena los datos en un archivo .txt usando JSON y permite cargar copias de seguridad de los archivos
 - Desarrollo de un sistema de gestión de funciones de cine en Java utilizando distintos TDA que permite agregar y eliminar peliculas, funciones, reservas y gestionar cada una, además de manejar una cola de espera cuando una función esta llena. Utiliza estructuras como conjuntos, colas, diccionarios, y arrays.
-  **❤️ Gustos**
+
+**❤️ Gustos**
 - Optimizar procesos
 - Fútbol 
 - Hardware
