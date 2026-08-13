@@ -122,10 +122,10 @@ Testing y pruebas unitarias
 ---
 
 ### Joaquin Rodrigues
-👤 Sobre mí
+**👤Sobre mí**
 Soy estudiante de Ingeniería Informática en UADE. Me considero una persona curiosa, práctica y con muchas ganas de seguir aprendiendo. Dentro de la informática me interesa especialmente el área de Machine Learning e Inteligencia Artificial, además de la programación y el análisis de datos. Me gusta resolver problemas, entender cómo funcionan las cosas y aprender nuevas tecnologías, tanto dentro como fuera de la facultad.
 
-🎯 Objetivos
+**🎯 Objetivos**
 -Recibirme de Ingeniero Informático.
 -Seguir creciendo y adquiriendo experiencia en el área de sistemas.
 -Profundizar mis conocimientos en Machine Learning e Inteligencia Artificial.
@@ -134,13 +134,13 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 -Viajar, conocer nuevos lugares y vivir nuevas experiencias.
 -Desarrollar en el futuro algún proyecto o emprendimiento propio.
 
-🏆 Logros
+**🏆 Logros**
 -Avanzar en la carrera de Ingeniería Informática en UADE.
 -Realizar un intercambio universitario en Austria.
 -Cursar materias de informática en un entorno internacional.
 -Trabajar en proyectos relacionados con programación, datos y Machine Learning.
 
-❤️ Gustos
+**❤️ Gustos**
 -Fútbol
 -Mecánica
 -Viajar
@@ -148,7 +148,7 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 -Conocer nuevos lugares
 -Juntarme con amigos
 
-💻 Conocimientos
+**💻 Conocimientos**
 -Programación: Python, SQL.
 -Machine Learning e IA: fundamentos de Machine Learning e Inteligencia Artificial, preparación de datos y modelos de clasificación y regresión.
 -Bases de datos: SQL, consultas y manejo de bases de datos relacionales.
@@ -156,6 +156,7 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 -Herramientas: Git, GitHub, Jupyter Notebook, Visual Studio Code y Microsoft Office.
 -Sistemas y redes: conocimientos básicos de sistemas operativos, redes y telecomunicaciones.
 -Idiomas: Español e Inglés.
+
 
 --- 
 
