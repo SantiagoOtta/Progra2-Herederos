@@ -72,7 +72,6 @@ Fundamentos de sistemas operativos
 Modelado de sistemas / UML
 Análisis de requerimientos
 Testing y pruebas unitarias
----
 
 ### [nombre]
 
