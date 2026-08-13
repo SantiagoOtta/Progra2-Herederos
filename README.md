@@ -74,7 +74,7 @@ Además, estoy realizando un curso de Full Stack en Digital House, donde sigo am
 - Idiomas: Español (Nativo), Inglés (Básico).
 
 
----**💻 Conocimientos**
+---
 
 
 **Ignacio Ezequiel Mendes de Oliveira**
