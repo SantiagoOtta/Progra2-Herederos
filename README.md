@@ -45,33 +45,40 @@ Soy estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Arg
 
 **❤️ Gustos**
 
-**💻 Conocimientos**
 
----
+---**💻 Conocimientos**
 
-Ignacio Ezequiel Mendes de Oliveira
+
+**Ignacio Ezequiel Mendes de Oliveira**
+
+**Sobre mi**
 
 Estudiante de ingeniería informática en UADE. Actualmente cursando segundo año.
 
+**🎯 Objetivos**
+
 Poder recibir el título, buscar y conseguir trabajo en sistemas.
+
+**🏆 Logros**
 
 Sistema de gestión de estacionamientos desarrollado en **Python** que permite administrar plazas, registrar ingresos y egresos de vehículos, gestionar reservas y consultar la ocupación en tiempo real. Incluye cálculo automático de tarifas, roles de administrador y cliente, validación de datos y persistencia de información en JSON.
 
+**❤️ Gustos**
 
 Durante mis tiempos libres, me gusta programar mis propias aplicaciones las cuales usaria en el futuro para mi comodidad, Apasionado por aprender conocimientos de la industria tecnológica día a día.
 
-Conocimientos: 
+**💻 Conocimientos**
 
-Python
-Programación estructurada
-Programación orientada a objetos
-Estructuras de datos y algoritmos
-Git y GitHub
-Linux
-Fundamentos de sistemas operativos
-Modelado de sistemas / UML
-Análisis de requerimientos
-Testing y pruebas unitarias
+-Python
+-Programación estructurada
+-Programación orientada a objetos
+-Estructuras de datos y algoritmos
+-Git y GitHub
+-Linux
+-Fundamentos de sistemas operativos
+-Modelado de sistemas / UML
+-Análisis de requerimientos
+-Testing y pruebas unitarias
 
 ### [nombre]
 
