@@ -165,7 +165,7 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 **Sobre mi**
 - Soy estudiante de segundo año de Ingeniería en Informática en la Universidad Argentina De La Empresa (UADE), interesado en el mundo del hardware y desarrollo de software.
 
-  **🎯 Objetivos**
+**🎯 Objetivos**
 - Recibirme de Ingeniero Informático
 - Mejorar mis habilidades de comunicación
 - 
@@ -178,7 +178,8 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 - Fútbol 
 - Hardware
 - Gaming
-  **💻 Conocimientos**
+
+**💻 Conocimientos**
 - Lenguajes: Python (intermedio), Java (básico)
 - Herramientas: GitHub, terminal de Linux
 - Idiomas: Español (nativo), Ingles (B2)
