@@ -173,7 +173,7 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 
 - Recibirme de Ingeniero Informático
 - Mejorar mis habilidades de comunicación
-- 
+  
 **🏆 Logros**
   
 - Desarrollo de un sistema de gestión de información/contactos en Python que permite agregar y eliminar contactos, modificar la información de cada uno y realizar una búsqueda mediante clave o información del - - -contacto. También almacena los datos en un archivo .txt usando JSON y permite cargar copias de seguridad de los archivos
