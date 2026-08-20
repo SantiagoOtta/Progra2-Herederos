@@ -5,7 +5,7 @@
 
 ### Santiago Diego Otta Mendez
 
-**Sobre mi**
+**👤 Sobre mi**
 
 <img src="./fotos/Foto-Santiago.jpeg" width="200">
 
@@ -44,7 +44,7 @@ Soy estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Arg
 
 <img src="./fotos/Foto-Lautaro.jpeg" width="200">
 
-**Sobre mi**
+**👤 Sobre mi**
 
 Soy estudiante de Ingeniería Informática en la Universidad Argentina de la Empresa (UADE). Anteriormente estudié un año en la UTN y actualmente continúo mi formación enfocándome en el desarrollo de software y las tecnologías informáticas.
 
@@ -93,7 +93,7 @@ Además, estoy realizando un curso de Full Stack en Digital House, donde sigo am
 
 <img src="./fotos/Foto-Nacho.jpeg" width="200">
 
-**👋 Sobre mí**
+**👤 Sobre mí**
 
 Estudiante de Ingeniería Informática en UADE, actualmente cursando segundo año.
 
@@ -128,7 +128,7 @@ En mi tiempo libre disfruto desarrollar aplicaciones propias orientadas a resolv
 
 <img src="./fotos/Foto-Joaquin.jpeg" width="200">
 
-**👤Sobre mí**
+**👤 Sobre mí**
 
 Soy estudiante de Ingeniería Informática en UADE. Me considero una persona curiosa, práctica y con muchas ganas de seguir aprendiendo. Dentro de la informática me interesa especialmente el área de Machine Learning e Inteligencia Artificial, además de la programación y el análisis de datos. Me gusta resolver problemas, entender cómo funcionan las cosas y aprender nuevas tecnologías, tanto dentro como fuera de la facultad.
 
@@ -175,7 +175,7 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 
 <img src="./fotos/Foto-Ezequiel.jpeg" width="200">
 
-**Sobre mi**
+**👤 Sobre mi**
 
 - Soy estudiante de segundo año de Ingeniería en Informática en la Universidad Argentina De La Empresa (UADE), interesado en el mundo del hardware y desarrollo de software.
 
@@ -201,6 +201,20 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 - Lenguajes: Python (intermedio), Java (básico)
 - Herramientas: GitHub, terminal de Linux
 - Idiomas: Español (nativo), Ingles (B2)
+
+---
+
+[nombre]
+
+**👤 Sobre mi**
+
+**🎯 Objetivos**
+
+**🏆 Logros**
+
+**❤️ Gustos**
+
+**💻 Conocimientos**
 
 ---
 
