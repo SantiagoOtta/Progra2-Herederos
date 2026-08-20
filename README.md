@@ -206,3 +206,9 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 
 ## Bitácora
 
+#### Semana 1 - Ejercicios Integradores
+
+Resolución de ejercicios:
+  - Ejercicio 1 - Crear una clase de producto y asignarle atributos, constructor e impresión.
+  - Ejercicio 2 - Consulta y modificación de stock.
+
