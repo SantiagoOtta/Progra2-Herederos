@@ -204,17 +204,25 @@ Soy estudiante de Ingeniería Informática en UADE. Me considero una persona cur
 
 ---
 
-[nombre]
+### Gaston Alejandro Basgall
 
 **👤 Sobre mi**
 
+- Pase por medicina en la UBA, cambie a Ingenieria en informatica en la UP y finalmente sigo mis estudios en la UADE
+
 **🎯 Objetivos**
 
-**🏆 Logros**
+- Recibirme de Ingeniero
 
 **❤️ Gustos**
 
+- Gaming
+- Musica
+- Viajar
+
 **💻 Conocimientos**
+
+- Java, Python
 
 ---
 
