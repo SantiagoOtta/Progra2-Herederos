@@ -38,23 +38,4 @@ public class Estrategia_1 implements PilaTDA {
     public boolean PilaVacia() {
         return cantidad == 0;
     }
-
-    public static int cantidadElementos(PilaTDA p, PilaTDA aux) {
-        int elemento = 0;
-        int contador = 0;
-        while (!p.PilaVacia()) {
-            elemento = p.Tope();
-            p.Desapilar();
-            aux.Apilar(elemento);
-            contador++;
-        }
-        while (!aux.PilaVacia()) {
-            elemento = aux.Tope();
-            aux.Desapilar();
-            p.Apilar(elemento);
-        }
-        return contador;
-    }
-
-
 }
